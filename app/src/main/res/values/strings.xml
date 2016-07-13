@@ -1,3 +1,17 @@
 <resources>
+    <string name="header">My Nanodegree Apps</string>
+    //This is the name of the app Max Characters ~20
     <string name="app_name">Brian\'s App Portfolio</string>
+    //This is an app that displays popular movies Max Characters ~20
+    <string name="popular_movies">Popular Movies</string>
+    //this is a stock price application Max Characters ~20
+    <string name="stock_hawk">Stock Hawk</string>
+    //Building on an existing application Max Characters ~20
+    <string name="build_it_bigger">Build It Bigger</string>
+    //Redesiging a finished application Max Characters ~20
+    <string name="make_your_app_material">Make Your App Material</string>
+    //Go ubiquitous Max Characters ~20
+    <string name="go_ubiquitous">Go Ubiquitous</string>
+    //Capstone custom application Max Characters ~20
+    <string name="Capstone">Capstone</string>
 </resources>

@@ -8,13 +8,20 @@
         <item name="colorAccent">#C5CAE9</item>
         <item name="colorButtonNormal">#303F9F</item>
     </style>
-
+//Styling for the Header text in the app
     <style name="HeaderTextStyle">
         <item name="android:layout_width">match_parent</item>
         <item name="android:textSize">24sp</item>
         <item name="android:gravity">center_horizontal</item>
-        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_height">48sp</item>
+        <item name="android:layout_marginTop">48sp</item>
         <item name="android:textAllCaps">true</item>
         <item name="android:textColorPrimary">#303F9F</item>
+    </style>
+//Styling for all the app buttons
+    <style name="customButtonStyle" parent="Base.Widget.AppCompat.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
     </style>
 </resources>
